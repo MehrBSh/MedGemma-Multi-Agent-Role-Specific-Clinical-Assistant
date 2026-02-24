@@ -1,0 +1,11 @@
+# MedGemma RAG + Image: dataset -> ChromaDB -> MedGemma-4B-IT (image-text-to-text)
+datasets>=2.14.0
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
+transformers>=4.50.0
+accelerate>=0.25.0
+torch>=2.0.0
+Pillow>=9.0.0
+streamlit>=1.28.0
+# Optional: reduce VRAM (uncomment if needed)
+# bitsandbytes>=0.41.0
