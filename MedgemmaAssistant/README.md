@@ -2,7 +2,7 @@
 
 ## 🌟 Project Overview
 
-MedGemma Learning Assistant is a medical AI platform with multiple user interfaces built with Streamlit and powered by local language models. Currently supports student learning, patient health information, and clinical decision support.
+MedGemma Assistant is a medical AI platform with multiple user interfaces built with Streamlit and powered by local language models. Currently supports student learning, patient health information, and clinical decision support.
 
 ## 🚀 Existing Applications
 
