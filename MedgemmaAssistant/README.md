@@ -1,4 +1,4 @@
-# 🏥 MedGemma Learning Assistant - Medical AI Platform
+# 🏥 MedGemma Multi-Agent Role-Specific Clinical Assistant
 
 ## 🌟 Project Overview
 
